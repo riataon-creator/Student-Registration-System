@@ -1,2 +1,0 @@
-# Student-Registration-System
-Description
